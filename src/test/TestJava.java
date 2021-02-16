@@ -8,6 +8,7 @@ public class TestJava {
 		System.out.println("Welcome to Git!");
 		System.out.println("test jira TEST01-1");
 		System.out.println("test jira TEST01-2");
+		System.out.println("comment jira issue ID");
 		
 
 	}

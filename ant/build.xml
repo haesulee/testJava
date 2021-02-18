@@ -5,7 +5,7 @@
 <echo message="pulling in property files"/>
 <property file="build.properties"/>
 	
-<property name="src" location="../src"/>
+<property name="src" location="../src/test"/>
 <property name="build" location="build"/>
 	
   	<target name="init">

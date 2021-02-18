@@ -13,7 +13,7 @@
    	</target>
 
   	<target name="compile" depends="init">
-     	<javac srcdir="${src}" destdir="${build}" />
+     	<javac srcdir="${src}" destdir="${build}" encoding="UTF-8" includeantruntime="false" />
   	</target>
 
 <echo message="calling the web services generation ant task: Testjava"/>

@@ -10,6 +10,7 @@ public class TestJava {
 		System.out.println("test jira TEST01-2");
 		System.out.println("comment jira issue ID"); 
 		System.out.println("Jenkins build and triggering CICDTEST01-3"); 
+		System.out.println("Jenkins build trigger local jira TEST01-3"); 
 		
 
 	}

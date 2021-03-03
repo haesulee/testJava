@@ -8,6 +8,7 @@ public class TestJava {
 		System.out.println("compile with ANT scripts.");
 		System.out.println("send source to GITHUB.");
 		System.out.println("and inform to JIRA by addressing comments.");
+		System.out.println("============ JIRA Issue ID : UT1-1 ==========");
 
 	}
 

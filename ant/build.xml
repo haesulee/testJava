@@ -6,7 +6,7 @@
 <property file="build.properties"/>
 	
 <property name="src" location="../src/test"/>
-<property name="build" location="build"/>
+<property name="build" location="../build"/>
 	
   	<target name="init">
         <mkdir dir="${build}" />

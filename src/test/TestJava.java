@@ -11,14 +11,9 @@ public class TestJava {
 		System.out.println("comment jira issue ID"); 
 		System.out.println("Jenkins build and triggering CICDTEST01-3"); 
 /* base branch : DEV
-   this branch : UT1-2-test-github
+   this branch : UT1-4-jira-jenkins-sonar
    add next line */
-		System.out.println("modified github directly 2021-03-03"); 
-/* this branch : UT1-2-test-github
-   add next line */
-		System.out.println("I will comment with issue-id"); 
-/* this branch : UT1-2-test-github
-   Nothing Changed except comment */	
+		System.out.println("이슈 ID를 포함하여 Comment를 남깁니다."); 	
 	}
 
 }

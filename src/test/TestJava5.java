@@ -11,7 +11,7 @@ public class TestJava5 {
 		System.out.println("comment jira issue ID"); 
 		System.out.println("Jenkins build and triggering CICDTEST01-3"); 
 
-		System.out.println("이슈 ID를 포함하지 않고 Comment를 남깁니다."); 	
+		System.out.println("이슈 ID를 포함하여 Comment를 남깁니다."); 	
 	}
 
 }

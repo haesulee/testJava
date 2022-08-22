@@ -1,3 +1,3 @@
-@Library('github-shared-lib') _
+@Library('nucube-shared-lib') _
 
 onlinePipelineManager('testJava')

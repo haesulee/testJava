@@ -1,3 +1,3 @@
-@Library('nucube-shared-lib') _
+@Library('nucube-shared-lib@haesulee') _
 
 onlinePipelineManager('testJava')

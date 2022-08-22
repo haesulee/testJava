@@ -1,3 +1,3 @@
 @Library('nucube-shared-lib@haesulee') _
 
-onlinePipelineManager('testJava')
+onlinePipelineManager('nurt-svc')

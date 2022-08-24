@@ -1,0 +1,3 @@
+SELECT * 
+FROM DB 
+WHERE JIRA_Table

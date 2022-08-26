@@ -1,3 +1,3 @@
-SELECT * 
+SELECT test3
 FROM DB 
 WHERE JIRA_Table

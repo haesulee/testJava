@@ -1,3 +1,7 @@
 SELECT test, test2
 FROM DB 
 WHERE JIRA_Table
+
+SELECT test, test2
+FROM DB 
+WHERE JIRA_Table
